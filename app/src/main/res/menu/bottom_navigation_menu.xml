@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:contentDescription="@string/first"
+        android:title="@string/first"
+        />
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:contentDescription="@string/second"
+        android:title="@string/second"
+        />
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_baseline_grade_24"
+        android:contentDescription="@string/third"
+        android:title="@string/third"
+        />
+</menu>
